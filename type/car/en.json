@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What will happen if you are caught cheating on the knowledge test?",
+    "answers": [
+      "You will never be allowed to take another test.",
+      "Nothing, there is no penalty.",
+      "You will not be allowed to take another test for 6 weeks. "
+    ],
+    "explanation": "If you are caught cheating on the knowledge test, you will face penalties, including being barred from taking another test for a certain period, typically around 6 weeks. Cheating compromises the fairness and integrity of the testing process, and authorities take this matter seriously to ensure all drivers are adequately prepared and knowledgeable."
+  },
+  {
+    "question": "Are you permitted to park on a median strip or traffic island?",
+    "answers": [
+      "No, not at any time.",
+      "Yes, but for no more than 30 minutes.",
+      "Yes, in daylight hours."
+    ],
+    "explanation": "Parking on a median strip or traffic island is generally prohibited at all times, as these areas are designed to separate lanes of traffic and allow for safe movement of vehicles. Parking in these areas can obstruct traffic, create hazards, and is usually illegal. Always look for designated parking spaces or legal parking zones."
+  },
+  {
+    "question": "You should not drive across a railway level crossing when -",
+    "answers": [
+      "Traffic is blocking the other side.",
+      "A station is nearby.",
+      "You are towing a caravan."
+    ],
+    "explanation": "You should not drive across a railway level crossing if traffic is blocking the other side, as this could result in your vehicle being stuck on the tracks, which is extremely dangerous. Always ensure that there is enough space to fully clear the crossing before you drive onto it. If traffic is backed up, wait until it clears before proceeding."
+  },
+  {
+    "question": "Before driving a long distance at fast speed or carrying a full car load, you should -",
+    "answers": [
+      "Check your tyre pressure, and if necessary, increase it to what the manufacturer recommends.",
+      "Make sure you have a street directory, so you know where you are going.",
+      "Have a large meal and a cup of coffee."
+    ],
+    "explanation": "Before driving a long distance, especially at high speeds or with a full car load, it is essential to check the tyre pressure. Properly inflated tyres ensure better fuel efficiency, safer handling, and reduce the risk of tyre blowouts. Always follow the manufacturer's recommended tyre pressure, which can typically be found in the vehicle's manual or on the inside of the driver's side door."
+  },
+  {
+    "question": "While a street directory may be helpful for navigation, and large meals or coffee might seem tempting, they are not as important as ensuring the vehicle is in good condition for the journey.",
+    "answers": [
+      "Once you become aware of he condition you must notify Transport for NSW.",
+      "Hand your licence in at the nearest police station.",
+      "Tell your doctor and let him or her notify Transport for NSW."
+    ],
+    "explanation": "If you become aware of a medical condition that may impair your ability to drive safely (such as a physical or mental condition that affects your driving skills), it is your responsibility to notify Transport for NSW. This helps ensure that your driving is safe for you and others on the road. Transport for NSW can provide guidance on how to proceed based on your medical condition. Handing your licence in at a police station or notifying a doctor is not the correct process—directly contacting the relevant authorities ensures proper management of your driving eligibility."
+  },
+  {
+    "question": "This bridge has only just enough room for two vehicles. As you come close to it you should -",
+    "figure": "narrow-bridge.png",
+    "answers": [
+      "Slow down and pay extra attention.",
+      "Sound your horn to warn the other driver.",
+      "Maintain your speed, keeping to the limit."
+    ],
+    "explanation": "When approaching a bridge that is only wide enough for two vehicles, it is important to slow down and pay close attention to any oncoming traffic. Ensure there is enough space for both vehicles to pass safely. If necessary, be prepared to stop and give way to the other vehicle. Sounding your horn or maintaining speed could create unnecessary hazards in this situation, so caution is key."
+  },
+  {
+    "question": "Is it an offence to obstruct clear vision of your number plates?",
+    "answers": [
+      "Yes, at any time.",
+      "Yes, but it is legal for a towbar or bicycle rack to cover the rear number plate.",
+      "No, you are allowed to cover your number plates if you want to."
+    ],
+    "explanation": "It is an offence to obstruct the clear vision of your number plates at any time. Your number plates must be clearly visible and legible to allow law enforcement to easily identify your vehicle. While certain items, like a towbar or bicycle rack, may cover a portion of the rear number plate, the number plate itself must remain visible and unobstructed. Failing to ensure visibility can result in fines or penalties."
+  },
+  {
+    "question": "You have a six year old child with you in your car. You have just parked so you can collect a prescription from the chemist. You should -",
+    "answers": [
+      "Take the child with you.",
+      "Ask an older person sitting nearby to watch the child.",
+      "Leave the child in the car."
+    ],
+    "explanation": "Leaving a child unattended in a car, especially a young child, can be dangerous and is not allowed under Australian law. In NSW, it is illegal to leave a child under the age of 12 unattended in a motor vehicle for an extended period if it could result in harm or distress. Taking the child with you ensures their safety and complies with legal obligations."
+  },
+  {
+    "question": "You are driving along this road. You hear an ambulance's siren and see the ambulance in your mirror. You should -",
+    "figure": "road-ambulance-siren.png",
+    "answers": [
+      "Move to the left and make way for the ambulance.",
+      "Turn into a driveway on the right hand side of the road.",
+      "Move to the right and make way for the ambulance."
+    ],
+    "explanation": "In NSW, road rules require drivers to give way to emergency vehicles with flashing lights or sirens. The safest way to do this is to slow down, move to the left, and allow the emergency vehicle to pass. Turning into a driveway or moving to the right could create unnecessary risks or block the ambulance. Always prioritize the ambulance's safe and swift passage."
+  },
+  {
+    "question": "Are you permitted to tow a caravan with a person riding in the caravan?",
+    "answers": [
+      "No, not under any circumstances.",
+      "Yes, provided you do not exceed 60 km/h.",
+      "Yes, if the person(s) in the caravan are over 12 years of age."
+    ],
+    "explanation": "In NSW, it is illegal to tow a caravan or trailer with a person inside it under any circumstances. This rule exists to ensure the safety of all passengers, as caravans and trailers are not designed to protect occupants in the event of an accident."
+  },
+  {
+    "question": "If you see a sign indicating road repairs are going on, you should -",
+    "answers": [
+      "Slow down and watch for traffic controllers and instructions.",
+      "Stop immediately and wait for instructions.",
+      "Maintain the same speed."
+    ],
+    "explanation": "When approaching roadwork zones, it's important to reduce your speed, remain alert, and look out for traffic controllers, signs, and instructions. This helps ensure the safety of workers and other road users. Stopping immediately or maintaining the same speed could create hazards."
+  },
+  {
+    "question": "Before getting out of your vehicle you must -",
+    "answers": [
+      "Check your mirrors and blind spots for pedestrians, bicycles or other vehicles.",
+      "Check your headlights are turned off.",
+      "Check your seatbelt is back in place"
+    ],
+    "explanation": "Before exiting your vehicle, you must ensure it is safe to do so. Checking mirrors and blind spots helps avoid collisions with passing vehicles, cyclists, or pedestrians. While turning off headlights and ensuring the seatbelt is in place are good practices, safety comes first when exiting the vehicle."
+  },
+  {
+    "question": "To drive safely, you need to concentrate and be able to monitor everything that is happening on the road. To do this, you need to:",
+    "answers": [
+      "Continually scan the road, looking ahead, to the sides, checking side and rear mirrors and anticipate what may happen.",
+      "Ask other occupants in the vehicle to watch out for possible dangers.",
+      "Turn all your attention only to the road ahead."
+    ],
+    "explanation": "Safe driving requires situational awareness and constant scanning of your surroundings. This includes looking ahead for hazards, checking the sides for pedestrians or vehicles, and using your mirrors to monitor traffic behind you. Focusing only on the road ahead limits your awareness, and relying on passengers for spotting dangers is not a safe driving practice."
+  },
+  {
+    "question": "You are approaching a green light in vehicle A. An ambulance sounding its siren is approaching the same intersection and has a red light. You should -",
+    "figure": "green-light-ambulance-siren.png",
+    "answers": [
+      "Slow down and stop if necessary to prevent getting in its way.",
+      "Keep driving because you have the green light.",
+      "Pull over to the left before you reach the intersection."
+    ],
+    "explanation": "Emergency vehicles such as ambulances have priority over all other traffic, even if they are facing a red light. If an ambulance is approaching an intersection with sirens on, you must slow down and stop if needed to allow it to pass safely. Pulling over to the left is generally recommended on regular roads but might not always be safe or practical near an intersection. Prioritize yielding in a way that avoids obstructing the ambulance."
+  },
+  {
+    "question": "Are you permitted to drive a car towing more than one trailer?",
+    "answers": [
+      "No, not at all.",
+      "Yes, if the combined length of vehicle and trailers does not exceed 15 metres.",
+      "Yes, provided you have held a licence for two years."
+    ],
+    "explanation": "In NSW, it is illegal to tow more than one trailer with a car under any circumstances. The law permits towing only a single trailer, and any attempt to tow multiple trailers is prohibited for safety reasons. Always check the towing capacity and regulations for your specific vehicle."
+  },
+  {
+    "question": "Generally, if you hear the siren of an emergency vehicle you should -",
+    "answers": [
+      "Pull over to the left until the emergency vehicle passes.",
+      "Immediately come to a stop.",
+      "Let the emergency vehicle pass and follow it closely behind."
+    ],
+    "explanation": "When you hear the siren of an emergency vehicle, you must pull over to the left side of the road and stop (if it’s safe to do so) to allow the emergency vehicle to pass. You should never follow the emergency vehicle too closely, as it can hinder their movement and be dangerous. Stopping or moving over gives them a clear path to get through traffic safely."
+  },
+  {
+    "question": "It is important to scan while driving so you can see everything that is happening on the road. What does scanning lve?",
+    "figure": "scanning.png",
+    "answers": [
+      "Continually looking ahead, to the sides and using all mirrors when driving.",
+      "Looking in the rear and side mirrors continually when driving.",
+      "Looking further ahead down the road when driving."
+    ],
+    "explanation": "Scanning while driving means staying aware of everything happening around you. This includes looking ahead to anticipate potential hazards, checking your side mirrors for vehicles or pedestrians, and using your rearview mirror to monitor traffic behind you. Constant scanning helps you stay alert and prepared to react to changes in traffic or road conditions."
+  },
+  {
+    "question": "You set out on a fairly long drive to see some friends. After a while you start feeling tired. What should you do?",
+    "answers": [
+      "Pull off the road, stop and rest until you no longer feel tired.",
+      "Stop at a shop and get a drink that contains caffeine to help keep you awake.",
+      "Make sure you get plenty of fresh air circulating inside the car by winding down your window."
+    ],
+    "explanation": "Fatigue is a serious hazard when driving, and the best way to handle tiredness is to stop safely and rest. Caffeine or fresh air might provide temporary relief, but they are not substitutes for proper rest. If you feel tired, it’s essential to take a break, even if it means delaying your journey. Your safety and the safety of others on the road depend on it."
+  },
+  {
+    "question": "A GIVE WAY sign at an intersection means that you must -",
+    "figure": "give-way-intersection.png",
+    "answers": [
+      "Be ready to stop and give way to all other traffic if there is danger of a collision.",
+      "Slow down and only give way to traffic on your right.",
+      "Stop completely at all times and have no right of way."
+    ],
+    "explanation": "A GIVE WAY sign indicates that you must yield to any traffic that may pose a danger of collision. This means you should slow down, be prepared to stop, and allow other vehicles or pedestrians to pass if necessary. You do not have to stop completely unless there is a risk of a collision, but you must be ready to give way."
+  },
+  {
+    "question": "When approaching a railway level crossing displaying this sign, you must -",
+    "figure": "railway-crossing-2-tracks.png",
+    "answers": [
+      "Slow down, look both ways for trains and be prepared to stop if necessary.",
+      "Increase your speed to avoid any approaching trains.",
+      "Continue across at normal speed, do not slow down."
+    ],
+    "explanation": "When approaching a railway level crossing, it’s essential to slow down and look both ways to check for any oncoming trains. Even if the crossing does not have flashing lights or barriers, you must always be ready to stop if necessary. This ensures that you can react to any situation safely and avoid crossing when a train is approaching."
+  },
+  {
+    "question": "The speed limit on this road is 90 km/h. You have just overtaken a vehicle in the left lane. What should you do next?",
+    "figure": "overtaken-left-lane.png",
+    "answers": [
+      "Move into the left lane.",
+      "Accelerate away from the other vehicle and keep driving in this lane.",
+      "Keep your position in this lane."
+    ],
+    "explanation": "After overtaking another vehicle, you should always move back into the left lane once it is safe to do so. This allows other vehicles to pass if needed and helps maintain the flow of traffic. Staying in the overtaking lane unnecessarily can block other drivers and may be considered unsafe or inconsiderate."
+  },
+  {
+    "question": "What is this driver doing that is negligent and illegal?",
+    "figure": "crossing-unbroken-line-curve.png",
+    "answers": [
+      "Crossing an unbroken line at a curve.",
+      "Overtaking on the kerb side.",
+      "Not signalling to change lanes."
+    ],
+    "explanation": "Crossing an unbroken line at a curve is dangerous and illegal because it reduces visibility and increases the risk of a collision. Unbroken lines indicate no overtaking or crossing is allowed, especially in areas where visibility is limited, such as curves. Always follow road markings for your safety and the safety of others."
+  },
+  {
+    "question": "You see these zig-zag markings on the road in front of you. What do they mean?",
+    "figure": "zig-zag-markings.png",
+    "answers": [
+      "Take care and look out for pedestrians at a crossing.",
+      "Look out for animals on the side of the road.",
+      "Be careful because the road ahead is slippery."
+    ],
+    "explanation": "Zig-zag markings on the road typically indicate that you are approaching a pedestrian crossing. These markings serve as a warning for drivers to slow down and be prepared to stop for pedestrians who may be crossing the road. It's important to pay extra attention in these areas to ensure the safety of pedestrians."
+  },
+  {
+    "question": "When you see children on or near the road -",
+    "figure": "children-on-road.png",
+    "answers": [
+      "You should slow down and be more careful because they may move suddenly.",
+      "You should reduce your speed by 5 km/h.",
+      "You should ignore them and pay attention to the rear vision mirror."
+    ],
+    "explanation": "Children are unpredictable and may suddenly step into the road, so it's crucial to reduce your speed and be extra cautious when you see children near or on the road. Always be prepared to stop quickly if necessary and maintain full attention to avoid any accidents."
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "answers": [
+      "By law, all occupants of a car (unless exempt) need to be restrained by a properly fitted and adjusted seat belt or a child restraint.",
+      "Seat belts and child restraints are only required on short trips.",
+      "Occupants in a car fitted with airbags are not required to wear a seat belt."
+    ],
+    "explanation": "Seat belts and child restraints are required for all passengers in a vehicle, regardless of the length of the trip. This is a legal requirement to ensure the safety of everyone in the car. Even if the vehicle is fitted with airbags, they are not a substitute for seat belts, as airbags alone cannot prevent injury in a crash."
+  },
+  {
+    "question": "Which one of the following statements is correct? Seat belts -",
+    "answers": [
+      "Save lives and prevent injury.",
+      "Are not necessary for good drivers.",
+      "Do not have to be used in the rear seat."
+    ],
+    "explanation": "Seat belts are essential for the safety of all occupants in a vehicle. They help prevent serious injuries and fatalities by securing passengers in place during a crash. Whether in the front or rear seat, wearing a seat belt is critical for safety and is required by law."
+  },
+  {
+    "question": "You want to give a lift to a friend and his four month old baby. Before you do, you need to make sure -",
+    "answers": [
+      "You have a baby restraint properly fitted to your vehicle.",
+      "You have enough seat belts for all the passengers, including the baby.",
+      "Your driver's licence permits you to carry children under the age of twelve months."
+    ],
+    "explanation": "For a baby under the age of twelve months, you are required to use an appropriate child restraint (such as a rear-facing car seat) that is correctly fitted and adjusted. This is the safest way to transport infants and is required by law. Ensure that you also have enough seat belts for all passengers, but the baby must always be secured in an appropriate restraint."
+  },
+  {
+    "question": "A Shared Traffic Zone, where pedestrians and other road users can share the road safely has a speed limit of -",
+    "answers": ["10 Km/h.", "50 Km/h.", "20 Km/h."],
+    "explanation": "A Shared Traffic Zone is designed to allow pedestrians, cyclists, and vehicles to safely share the road. In these areas, the speed limit is reduced to 10 km/h to ensure the safety of all road users, particularly pedestrians. Drivers must be very cautious and prepared to stop if necessary."
+  },
+  {
+    "question": "Driving faster than the maximum speed limit is -",
+    "answers": [
+      "Never legally permitted.",
+      "Permitted only when passing another vehicle.",
+      "Only permitted when other vehicles are going faster than the speed limit."
+    ],
+    "explanation": "Driving faster than the posted maximum speed limit is illegal, regardless of the circumstances. Speed limits are set for the safety of all road users, and exceeding them increases the risk of accidents. Even if other vehicles are going faster, you must adhere to the legal speed limit at all times."
+  },
+  {
+    "question": "If you are driving along the highway and come across road works with a reduced speed zone, you must -",
+    "answers": [
+      "Slow down to the new speed limit.",
+      "Drive at the same speed as other vehicles.",
+      "Drive through the road works zone as fast as you can to get past it."
+    ],
+    "explanation": "When approaching roadworks with a reduced speed limit, you must slow down to the new speed limit indicated. This is necessary to ensure the safety of both workers and road users. Failing to slow down can lead to fines, accidents, or endangerment of workers on site. Always follow road signs and adjust your speed as required."
+  },
+  {
+    "question": "You approach an intersection showing a red light and the sign shown. You wish to turn left. You must -",
+    "figure": "left-turn-on-red-permitted-after-stopping.png",
+    "answers": [
+      "Stop and turn left only if it is safe.",
+      "Stop and wait for a green light.",
+      "Slow down and turn left or right if it is safe."
+    ],
+    "explanation": "When there is a \"Left Turn on Red Permitted After Stopping\" sign, you are allowed to turn left while the traffic light is red, but only after coming to a complete stop. You must ensure that it is safe to do so, giving way to pedestrians, other vehicles, and any potential hazards before making the turn."
+  },
+  {
+    "question": "Looking at the diagram, which vehicle must give way?",
+    "figure": "lane-merging.png",
+    "answers": [
+      "Vehicle A.",
+      "Vehicle B.",
+      "Either vehicle, there is no rule on giving way when merging."
+    ],
+    "explanation": "When the left lane is ending and merging into the right lane, the vehicle in the left lane (Vehicle A) must give way to the vehicle in the right lane (Vehicle B). The vehicle in the right lane has the right of way, as the left lane is the one that is closing."
+  },
+  {
+    "question": "Is it an offence to refuse to take a POLICE breath test?",
+    "answers": [
+      "Yes - always.",
+      "No - if you say you haven't been drinking alcohol.",
+      "No - if you are a learner driver."
+    ],
+    "explanation": "Refusing to take a police breath test is an offense under Australian law, regardless of whether you have been drinking alcohol or not. The law is strict when it comes to roadside breath tests, and refusal can result in heavy penalties, including fines, license suspension, and even imprisonment. This applies to all drivers, including learner drivers. The police have the authority to request breath tests if they suspect a driver may be under the influence."
+  },
+  {
+    "question": "Alcohol is a depressant. This means -",
+    "answers": [
+      "It slows down how quickly your brain works.",
+      "It speeds your brain up so you can work better.",
+      "It makes you calm down and think more clearly."
+    ],
+    "explanation": "Alcohol is a depressant, which means it slows down the central nervous system, affecting the brain's ability to process information and make decisions. This can impair coordination, reaction times, and judgment, making it dangerous to drive or operate machinery after consuming alcohol."
+  },
+  {
+    "question": "If you are going out and going to drink alcohol, the best way to avoid having to drink and drive is to -",
+    "answers": [
+      "Organise before hand a way of getting home where you are not the driver.",
+      "After you have had a few drinks, start to think about how you will get home.",
+      "Wait for one hour after your last drink before you drive home."
+    ],
+    "explanation": "The best way to avoid the risk of drinking and driving is to plan ahead. Arrange for alternative transport, such as a designated driver, taxi, rideshare, or public transport, before you start drinking. This ensures you won't be tempted to drive under the influence and reduces the risk of accidents or legal consequences. Relying on waiting or deciding how to get home after drinking is not safe."
+  },
+  {
+    "question": "If you are affected by a legal drug, such as a medicine (e.g. cold or allergy tablets) -",
+    "answers": [
+      "You must not drive.",
+      "You must have a passenger to help you drive.",
+      "You may drive only in daylight hours."
+    ],
+    "explanation": "Even legal drugs, such as certain medications (e.g., cold or allergy tablets), can impair your ability to drive. These medications can cause drowsiness, slowed reactions, or other side effects that make driving dangerous. Always check the label or consult your doctor or pharmacist before driving while on any medication. If the medication affects your ability to drive safely, it is important to arrange alternative transport."
+  },
+  {
+    "question": "When you see this sign, what must you do?",
+    "figure": "railway-crossing-2-tracks-shadow.png",
+    "answers": [
+      "Slow down and be ready to stop and give way to a train.",
+      "Drive quickly over the railway crossing.",
+      "Stop before the railway crossing, wait for 1 minute and proceed if the crossing is clear."
+    ],
+    "explanation": "The sign indicating \"RAILWAY CROSSING 2 TRACKS\" warns that there are two tracks at the crossing, which means trains may approach from either direction. You should slow down as you approach the crossing, be prepared to stop, and always give way to any trains that are approaching, even if the tracks appear to be clear. It's crucial to exercise caution at railway crossings to ensure safety."
+  },
+  {
+    "question": "When you see this sign you should -",
+    "figure": "no-entry.png",
+    "answers": [
+      "Not drive beyond the sign.",
+      "Drive with caution.",
+      "Not pass another vehicle."
+    ],
+    "explanation": "The \"NO ENTRY\" sign indicates that you are not allowed to proceed beyond that point. This could apply to one-way streets, restricted areas, or other situations where driving past the sign is prohibited. Always obey \"NO ENTRY\" signs to avoid fines and ensure safety."
+  },
+  {
+    "question": "This sign means you should -",
+    "figure": "keep-left.png",
+    "answers": [
+      "Pass to the left of the sign.",
+      "Drive carefully, roundabout ahead.",
+      "Turn left at next street."
+    ],
+    "explanation": "The \"KEEP LEFT\" sign indicates that you should pass to the left of the sign. This is typically seen on roads where vehicles are required to keep to the left side of the road or when navigating around an obstacle, like an island or a traffic island. It is important to follow these signs to ensure smooth traffic flow and safety."
+  },
+  {
+    "question": "What does this sign mean?",
+    "figure": "no-stopping.png",
+    "answers": [
+      "Vehicles are not allowed to stop at the kerb exceptin a medical emergency.",
+      "Vehicles must not stop at the kerb, except if picking up a passenger.",
+      "Vehicles must not stop at the kerb, unless picking up goods."
+    ],
+    "explanation": "The \"NO STOPPING\" sign, typically accompanied by a horizontal line at the bottom and arrows pointing left and right, indicates that vehicles are prohibited from stopping at that location under any circumstances, except in the case of a medical emergency. This ensures the area remains clear for traffic flow, safety, or other reasons such as access for emergency vehicles."
+  },
+  {
+    "question": "What does this sign mean?",
+    "figure": "60.png",
+    "answers": [
+      "You are not to exceed 60 km/h.",
+      "You can go faster than 60 km/h.",
+      "You are on Highway 60."
+    ],
+    "explanation": "A sign indicating a speed limit of \"60 km/h\" means that you are not allowed to drive faster than 60 km/h on that section of the road. It is a legal restriction intended to promote safety by controlling vehicle speeds in that area. You must stay at or below this speed limit while driving."
+  },
+  {
+    "question": "What does this sign mean?",
+    "figure": "stop-sign-ahead.png",
+    "answers": [
+      "Stop sign ahead, slow down and prepare to stop.",
+      "You are approaching a roundabout, prepare to give way.",
+      "One way traffic ahead."
+    ],
+    "explanation": "This sign indicates that a Stop sign is ahead, so drivers must slow down and prepare to stop completely at the intersection. The black upward-pointing arrow signals the direction of travel, while the red octagon symbol is a standard warning for a stop sign. It's important to be alert and stop when you reach the intersection to ensure safety."
+  },
+  {
+    "question": "You should expect this sign, if -",
+    "figure": "give-way-ahead.png",
+    "answers": [
+      "A give way sign at an intersection is ahead, slow down and be prepared to stop.",
+      "You are approaching an intersection with traffic lights, be prepared to stop.",
+      "You are approaching a school or playground."
+    ],
+    "explanation": "The sign with a black upward-pointing arrow and a red triangle indicates that you are approaching a Give Way sign at an intersection. This means you must slow down, be prepared to stop if necessary, and give way to any other vehicles or pedestrians that have the right of way. Always be cautious and ready to stop in these situations to avoid collisions."
+  },
+  {
+    "question": "You are most likely to find this sign, where -",
+    "figure": "children-crossing-ahead.png",
+    "answers": [
+      "Children may be crossing the road ahead, slow down and be prepared to make a safe stop.",
+      "There is an athletic field ahead.",
+      "Pedestrians are not allowed."
+    ],
+    "explanation": "This sign is commonly found in areas where children are likely to be present, such as near schools, playgrounds, or residential areas. It serves as a warning for drivers to slow down and be alert for children crossing the road or playing near the roadside. It's important to reduce your speed and be prepared to stop for the safety of the children."
+  },
+  {
+    "question": "What does this sign mean?",
+    "figure": "railway-ahead.png",
+    "answers": [
+      "Railway level crossing with flashing signals ahead, slow down, drive carefully, and be prepared to stop.",
+      "Intersection ahead with traffic lights, prepare to stop.",
+      "Red light camera in use at traffic lights ahead."
+    ],
+    "explanation": "This sign indicates that you are approaching a railway level crossing with two tracks. The silhouette of a railway crossing on the sign suggests that there may be trains on either track, and the flashing signals may activate to warn of an approaching train. You should slow down, drive carefully, and be ready to stop if necessary to ensure safety."
+  },
+  {
+    "question": "What does this sign mean?",
+    "figure": "hump-ahead.png",
+    "answers": [
+      "There is a hump (sudden slope up and down) in the road ahead slow down.",
+      "There is a tunnel ahead, turn on your headlights.",
+      "The road ahead is closed, go back."
+    ],
+    "explanation": "This sign with the silhouette of a bumper indicates a hump or sudden rise and fall in the road ahead. It serves as a warning to drivers to slow down and approach with caution. This could be due to a change in road elevation that might be unexpected or cause discomfort to passengers, and it’s important to reduce speed to maintain control of the vehicle."
+  },
+  {
+    "question": "What will happen if you offer a testing officer a bribe to pass your driving test?",
+    "answers": [
+      "Action will be taken against you. The penalties are severe and include fines and imprisonment.",
+      "Only the testing officer will be investigated.",
+      "Nothing, there is no penalty."
+    ],
+    "explanation": "Offering a bribe to a testing officer is illegal and a serious offense. It is considered corruption, and both the person offering the bribe and the officer involved can face severe penalties, including fines and imprisonment. Bribery undermines the integrity of the testing process, and any such attempts will be thoroughly investigated and punished."
+  }
+]
